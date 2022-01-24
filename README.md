@@ -5,6 +5,8 @@
 * Ctrl+A - moves the cursor to beginning of line.
 * Ctrl+E - moves the cursor to the end of the line.
 
+* ctrl + shift + - : Undo
+
 # Cutting and Pasting
 1. CUT WORDS
     * Ctrl+W - Cut the word before the cursor.
